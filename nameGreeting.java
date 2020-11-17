@@ -1,17 +1,3 @@
-/**********************************************************************
-
-*	Program Summary: This program asks the user for a one-word name
-*                        and then displays a constructed greeting
-*                        that looks like this: 
-*
-*                        Hello, NAME!
-**********************************************************************/
-/**
-package myNameGreeting;
-
-
- *
- */
 
 
 import java.util.Scanner;
