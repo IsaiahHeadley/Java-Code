@@ -11,7 +11,7 @@ public class ifelseif{
 
  int userAge = age.nextInt();  // Read user input
  
-	//int age=170;
+	
 
 	if(userAge <= 0){
 	 System.out.println("Error");
