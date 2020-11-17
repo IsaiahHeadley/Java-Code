@@ -1,12 +1,5 @@
 /**********************************************************************
-*	Program:	 PRG420Week1_CodingAssignment	
-* 	Purpose: 	 Week 1 Individual Assignment #2	
-*	Programmer:	 Isaiah Headley
-*	Class:		 PRG/420			
-*	Creation Date:	 2/24/2019
-*********************************************************************
-*
-**********************************************************************
+
 *	Program Summary: This program asks the user for a one-word name
 *                        and then displays a constructed greeting
 *                        that looks like this: 
@@ -14,11 +7,10 @@
 *                        Hello, NAME!
 **********************************************************************/
 /**
-package prg420week1_codingassignment;
+package myNameGreeting;
 
 
  *
- * @author NETBEANS PLACES YOUR INITIALS HERE
  */
 
 
