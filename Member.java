@@ -10,9 +10,10 @@ public class Member {
     private String name;
     private double fees;
   
+  //Constructor
   public Member(char pmemberType, int pmemberId, String pName, double pFees){
 
-
+  //Methods
  public void setMemberType(char pMemberType)
  {
    memberType = pMemberType;
